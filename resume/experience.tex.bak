@@ -16,10 +16,10 @@
     {March. 2019 - Present} % Date(s)
     {
       \begin{cvitems} % Description(s) of tasks/responsibilities
-        \item {Led the delivery, design and/or implementation of various projects:}  
+        \item {Led the delivery, design and/or implementaion of various projects:}  
         \begin{itemize}
-          \item {Enable operations and web teams to get automated and consistent transaction minimums validation for minors and adults.}
-          \item {Enable operations and web teams to get automated and consistent Regulation 28 validation of transactions with hedge fund instruments.}
+          \item {Enable operations and web teams to get automated and consistent transaction minimums validation for minors vs adults.}
+          \item {Enable operations and web teams to get automated and consistent Regulation 28 validation of transactions for hedge fund intruments.}
           \item {Enable organisation's Life Investments subsidiary to stay within the SARB foreign investment exposure limit.}
           \item {Enable operations team to manage model portfolios.}
         \end{itemize}
@@ -37,7 +37,7 @@
         \item {Led the design and implementation of a base framework for Straight Through Online Transactions(STP) processing:}
         \begin{itemize}
           \item {Design and Implement Scala RESTful APIs to support STP platform.} 
-          \item {Design and Implement relational databases to support STP platform.} 
+          \item {Design and Implement relational database to support STP platform.} 
           \item {Design and Implement base instruction Camunda workflow for STP platform.} 
         \end{itemize}
       \end{cvitems}
@@ -48,13 +48,13 @@
     {Software Developer} % Job title
     {Allan Gray Proprietary Limited} % Organization
     {Cape Town, South Africa} % Location
-    {Jan. 2016 - Nov. 2018} % Date(s)
+    {Jaa. 2016 - Nov. 2018} % Date(s)
     {
       \begin{cvitems} % Description(s) of tasks/responsibilities
-        \item {Contribute to Camunda workflows for implementation of long running retirement transactions.}
+        \item {Contribute to Camunda workflows for implementation of long running retirement transactions}
         \item {Design and Implement Scala RESTful APIs to support retirement transactions.} 
         \item {Design and Implement relational database to support retirement transactions.} 
-        \item {Rewrite Java implementations across the Retail IT code base to Scala.}
+        \item {Rewrite Java implementations across the Retail IT code base to Scala}
       \end{cvitems}
     }
 %---------------------------------------------------------
