@@ -16,51 +16,48 @@
   \cvskill
     {} % Category
     % Skills
-    { \skilltypestyle{Medium proficiency:} Python, JavaScript. } 
+    { \skilltypestyle{Medium proficiency:} Python, JavaScript, Bash. } 
   \cvskill
     {} % Category
     % Skills
-    { \skilltypestyle{Low proficiency:} Bash, Java, C, Go, C++, HTML.} 
-
+    { \skilltypestyle{Low proficiency:} Java, C, Go, C++, HTML.} 
+  \\
   \cvskill
     {Programming Models} % Category
     % Skills
     {\skilltypestyle{High proficiency:} Declarative(Functional), Stateful(Imperative), Object Orientated.} 
-
+  \\
   \cvskill
-    {Architectural and Design Patterns} % Category
+    {Achitectural and Design Patterns} % Category
     % Skills
-    { \skilltypestyle{High proficiency:} REST, Domain Driven Design(DDD), Microservices.}
+    { \skilltypestyle{High proficiency:} REST, Domain Driven Design(DDD), Microservices}
     \cvskill
     {} % Category
     { \skilltypestyle{Medium proficiency:} Command Query Responsibility Segregation, Model View Controller.} 
-
+  \\
 %---------------------------------------------------------
   \cvskill
     {Frameworks and Libraries} % Category
     % Skills
-    { \skilltypestyle{Medium proficiency:} Dropwizard, RabbitMQ.} 
+    { \skilltypestyle{Medium proficiency:} DropWizard, RabbitMQ.} 
   \cvskill
     {} % Category
     { \skilltypestyle{Low proficiency:} React, Django.} 
-
+  \\
 %---------------------------------------------------------
   \cvskill
     {Process Automation}
-    {\skilltypestyle{High proficiency:} Camunda, Business Process Model and Notation(BPMN).}
-
+    {\skilltypestyle{High proficiency:} Camunda, BPMN 2.0}
+  \\
 %---------------------------------------------------------
   \cvskill
     {DevOps} % Category
-    {\skilltypestyle{Medium proficiency:} Docker, Kubernetes, Gitlab CI/CD.} % Skills
-  \cvskill
-    {} % Category
-    { \skilltypestyle{Low proficiency:} Github Actions.} 
-
+    {\skilltypestyle{Medium proficiency:} Docker, Kubernetes, Gitlab CI, Github Actions} % Skills
+  \\
 %---------------------------------------------------------
   \cvskill
   {Version Control} % Category
-  {\skilltypestyle{High proficiency:} Git.} % Skills
+  {\skilltypestyle{High proficiency:} Git} % Skills
 
 %---------------------------------------------------------
 \end{cvskills}
