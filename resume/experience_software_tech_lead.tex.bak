@@ -44,11 +44,6 @@
     {Nov. 2018 - Feb. 2019} % Date(s)
     {
       \begin{cvitems} % Description(s) of tasks/responsibilities
-        \item {Products:}
-        \begin{itemize}
-          \item {Straight Through Transactions Processing Platform.}
-          \item {Additional Contribution Straight Through transaction.}
-        \end{itemize}
         \item {Key Responsibilities:}
         \begin{itemize}
           \item {Design and Implement a base framework to enable the implementation of Straight Through Online Transactions processing.}
@@ -57,8 +52,8 @@
         \item {Achievements:}
         \begin{itemize}
           \item {Increase efficiency of Operations department by automating client website transactions.}
-          \item {Reduce manual additional ccontributions by 50 to 60\%.}
-                \end{itemize}
+          \item {Reduce manually processed additional ccontributions by 50 to 60\%.}
+        \end{itemize}
       \end{cvitems}
     }
 
@@ -70,15 +65,15 @@
     {Jan. 2016 - Nov. 2018} % Date(s)
     {
       \begin{cvitems} % Description(s) of tasks/responsibilities
-        \item {Products:}
-        \begin{itemize}
-          \item {Long running(2+ days) Transactions Processing Platform.}
-          \item {Various Life products transaction automation.}
-        \end{itemize}
         \item {Key Responsibilities:}
         \begin{itemize}
           \item {Design and implement Scala RESTful APIs, relational database and Camunda workflows to automate retirement transactions.}
           \item {Onboard other developers onto the team and the Transactions domain.}
+        \end{itemize}
+        \item {Achievements:}
+        \begin{itemize}
+          \item {Increase efficiency of Life Operations department by automating long-running retirement transactions that span multiple days.}
+          \item {Reduce manually processed additional ccontributions by 50 to 60\%.}
         \end{itemize}
       \end{cvitems}
     }
