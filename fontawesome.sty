@@ -7,11 +7,12 @@
 \usepackage{fontspec}
 
 % Define shortcut to load the Font Awesome font.
-\newfontfamily{\FA}{FontAwesome}
+%\newfontfamily{\FA}{FontAwesome}
 % Generic command displaying an icon by its name.
-\newcommand*{\faicon}[1]{{
-  \FA\csname faicon@#1\endcsname
-}}
+%\newcommand*{\faicon}[1]{{
+%  \FA\csname faicon@#1\endcsname
+%}}
+
 
 \expandafter\def\csname faicon@glass\endcsname {\symbol{"F000}} \def\faGlass {{\FA\csname faicon@glass\endcsname}}
 \expandafter\def\csname faicon@music\endcsname {\symbol{"F001}} \def\faMusic {{\FA\csname faicon@music\endcsname}}
