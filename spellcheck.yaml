@@ -15,4 +15,5 @@ matrix:
       - pre
   sources:
   - '**/*.md'
+  - '**/*.tex'
   default_encoding: utf-8
