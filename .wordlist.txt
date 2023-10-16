@@ -1,4 +1,4 @@
-personal_ws-1.1 en 145 
+personal_ws-1.1 en 145
 APIs
 Abelian
 Affine
@@ -186,3 +186,13 @@ skilltypestyle
 headerquotestyle
 
 Resumé
+Jira
+svg
+yaml
+Gitflow
+CQRS
+MVC
+
+js
+RSAWEB
+Résumé
