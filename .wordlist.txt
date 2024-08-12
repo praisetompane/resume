@@ -197,3 +197,11 @@ js
 RSAWEB
 Résumé
 vspace
+
+Hasso
+Plattner
+EPFL
+Lausanne
+fédérale
+polytechnique
+École
