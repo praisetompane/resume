@@ -186,3 +186,22 @@ skilltypestyle
 headerquotestyle
 
 Resumé
+Jira
+svg
+yaml
+Gitflow
+CQRS
+MVC
+
+js
+RSAWEB
+Résumé
+vspace
+
+Hasso
+Plattner
+EPFL
+Lausanne
+fédérale
+polytechnique
+École
