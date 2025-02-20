@@ -2,6 +2,9 @@
 Miyata
 
 
+# concepts:
+collaging
+
 # institutions:
 quora
 freecodecamp
@@ -14,6 +17,8 @@ visualstudio
 # url
 conventionalcommits
 
+# domain specific
+paragraphstyle
 
 personal_ws-1.1 en 145
 APIs
