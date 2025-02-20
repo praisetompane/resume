@@ -1,0 +1,8 @@
+{
+	"name": "praise_resume",
+	"build": {
+		"dockerfile": "../Dockerfile"
+	},
+	"workspaceMount": "source=${localWorkspaceFolder},target=/praise_resume,type=bind,consistency=delegated",
+	"workspaceFolder": "/praise_resume"
+}

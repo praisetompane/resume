@@ -2,16 +2,16 @@ name: praise_resume
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
     - name: check out repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
     - name: spell check
       uses: rojopolis/spellcheck-github-actions@0.34.0
       with:                                        
@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: check out repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
     - name: build resume
       uses: docker://ghcr.io/qjoly/xelatex:latest
       with:
@@ -31,7 +31,7 @@ jobs:
     - name: setup release folder
       run: mkdir -p ./release && cp praise_tompane_resume.pdf ./release
     - name: publish document
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
-        path: |
-          praise_tompane_resume.pdf
+        name: praise_tompane_resume.pdf
+        path: ./praise_tompane_resume.pdf
