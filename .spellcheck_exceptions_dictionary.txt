@@ -1,4 +1,21 @@
-personal_ws-1.1 en 145 
+# authors:
+Miyata
+
+
+# institutions:
+quora
+freecodecamp
+
+# technology
+dev
+devcontainers
+visualstudio
+
+# url
+conventionalcommits
+
+
+personal_ws-1.1 en 145
 APIs
 Abelian
 Affine
@@ -205,3 +222,7 @@ Lausanne
 fédérale
 polytechnique
 École
+
+# technology
+ScalaTest
+pytest
