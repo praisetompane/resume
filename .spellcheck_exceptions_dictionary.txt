@@ -19,6 +19,19 @@ praisetompane
 
 
 # domain specific
+Programme
+PYTM
+YVXG
+HJJWA
+UMPRT
+VQ
+VZY
+gesul
+nifap
+puvuk
+vorun
+xicis
+
 APIs
 Microservices
 DevOps
@@ -29,6 +42,7 @@ Résumé
 
 
 # institutions:
+DeepLearning
 RSAWEB
 Hasso
 Plattner
@@ -76,6 +90,11 @@ visualstudio
 
 
 # latex
+verticalspaceaftercvsection
+vspace
+cvhonor
+cvhonors
+cvsubsection
 colorlet
 darkknight
 darktext
